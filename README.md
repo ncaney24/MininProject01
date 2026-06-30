@@ -1,1 +1,1 @@
-# MiningProject01
+# MininProject01
