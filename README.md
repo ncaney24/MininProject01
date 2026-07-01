@@ -1,4 +1,4 @@
-# EECE 5644 — MiniProject #01: Cobblestone Gifts Sales Analysis
+# EECE 56444 — MiniProject #01: Cobblestone Gifts Sales Analysis
 
 ## What this project does
 Cleans and analyses a raw 541,909-row e-commerce export from Cobblestone Gifts,
